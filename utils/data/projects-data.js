@@ -27,10 +27,12 @@ export const projectsData = [
     id: 2,
     name: "Fire Detection & Evacuation System",
     description:
-      "Fine-tuned YOLO11m and Qwen3-VL-8B on the DetectiumFire dataset for real-time fire detection, with the VLM generating structured alerts covering severity and evacuation actions.",
+      "Enhanced an AI-driven fire safety and evacuation platform by training YOLOv26, fine-tuning Qwen3-VL-8B with LoRA, and developing an Agentic AI layer for real-time fire detection, severity assessment, intelligent evacuation guidance, and rapid emergency response in indoor environments.",
     tools: [
       "YOLO",
       "Vision-Language Model",
+      "CrewAI",
+      "MCP",
       "OpenCV",
       "Unsloth",
       "LoRA",

@@ -10,7 +10,7 @@ import ScrollToTop from "./components/helper/scroll-to-top";
 const inter = Inter({ subsets: ["latin"] });
 import Head from "next/head";
 export const metadata = {
-  title: "Umair Khan | Portfolio",
+  title: "Portfolio of Umair Khan",
   description:
     "Umair Khan is a senior developer with 4 years of experience building enterprise-grade platforms across healthcare, logistics, and compliance sectors. Specialized in designing and deploying conversational AI systems, RAG pipelines, and agentic workflows. Proven track record of owning full backend lifecycles, leading development teams, and delivering scalable, production-ready solutions.",
 };

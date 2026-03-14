@@ -2,8 +2,8 @@ export const educations = [
   {
     id: 1,
     title: "MS (Artificial Intelligence)",
-    duration: "2024 - Present",
-    institution: "FAST-NUCES Karachi",
+    duration: "2024 - 2026",
+    institution: "FAST - NUCES",
   },
   {
     id: 2,
@@ -22,6 +22,6 @@ export const educations = [
     id: 4,
     title: "Matriculation (Science)",
     duration: "2013 - 2015",
-    institution: "Star Academy Secondary School, Sultanabad, Karachi",
+    institution: "Star Academy Secondary School, Karachi",
   },
 ];

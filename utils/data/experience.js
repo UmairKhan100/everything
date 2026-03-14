@@ -13,13 +13,13 @@ export const experiences = [
   },
   {
     id: 3,
-    title: "Software Engineer (1 Year)",
+    title: "Software Engineer",
     company: "Megatech Trackers",
     duration: "(Apr 2023 - Mar 2024)",
   },
   {
     id: 4,
-    title: "Full-Stack Developer (1 Year)",
+    title: "Full-Stack Developer",
     company: "Indigisys Private Limited",
     duration: "(Apr 2022 - Mar 2023)",
   },
