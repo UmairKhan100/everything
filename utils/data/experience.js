@@ -9,7 +9,7 @@ export const experiences = [
     id: 2,
     title: "Mid-level Backend Developer",
     company: "Atria Technologies",
-    duration: "(Apr 2024 - Oct 2025)",
+    duration: "(Apr 2024 - Sep 2025)",
   },
   {
     id: 3,
