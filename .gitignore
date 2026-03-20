@@ -1,2 +1,2 @@
-/portfolio/node_modules
-/portfolio/.next/
+node_modules/
+.next/

@@ -15,7 +15,7 @@ function Footer() {
             Built with ❤️ by{" "}
             <Link
               target="_blank"
-              href="https://www.linkedin.com/in/umair1real/"
+              href="https://www.linkedin.com/in/UmairKhan10/"
               className="text-[#16f2b3]"
             >
               Umair

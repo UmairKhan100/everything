@@ -4,7 +4,7 @@ export const contactsData = {
   address: "Sultanabad, Karachi, Pakistan",
   github: "https://github.com/UmairKhan100/",
   facebook: "",
-  linkedIn: "https://www.linkedin.com/in/umair1real",
+  linkedIn: "https://www.linkedin.com/in/UmairKhan10",
   twitter: "",
   stackOverflow: "",
 };

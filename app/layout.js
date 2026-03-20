@@ -10,9 +10,9 @@ import ScrollToTop from "./components/helper/scroll-to-top";
 const inter = Inter({ subsets: ["latin"] });
 import Head from "next/head";
 export const metadata = {
-  title: "Portfolio of Umair",
+  title: "Umair Khan | Portfolio",
   description:
-    "This is the portfolio of Umair. I am a Full-Stack AI Engineer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "Umair Khan is a senior developer with 4 years of experience building enterprise-grade platforms across healthcare, logistics, and compliance sectors. Specialized in designing and deploying conversational AI systems, RAG pipelines, and agentic workflows. Proven track record of owning full backend lifecycles, leading development teams, and delivering scalable, production-ready solutions.",
 };
 
 export default function RootLayout({ children }) {
